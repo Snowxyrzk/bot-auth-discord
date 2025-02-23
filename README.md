@@ -22,9 +22,6 @@ Antes de começar, você precisará ter instalado em sua máquina:
 - [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
-Atualizei sua seção de configuração para incluir instruções sobre baixar o VS Code e comandos do terminal. Veja se está do jeito que você quer!  
-
-```markdown
 ## 🔧 Configuração
 <details>
   <summary>Mostrar configuração ▼</summary>
@@ -76,7 +73,7 @@ Atualizei sua seção de configuração para incluir instruções sobre baixar o
 </details>
 ```
 
-Caso precise de mais ajustes, me avise! 🚀
+
 
 
 2. <details>
