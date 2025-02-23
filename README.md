@@ -7,7 +7,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
 
 ## 🏂Funcionalidades>
 <details>
-  <summary>Mostrar funcionalidades ▼</summary>
+  <summary>Mostrar funcionalidades </summary>
   
   - Autenticação via Discord OAuth2
   - Adição automática de usuários ao servidor após a autenticação
@@ -22,13 +22,62 @@ Antes de começar, você precisará ter instalado em sua máquina:
 - [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
-## 🔧 Configuração
+Atualizei sua seção de configuração para incluir instruções sobre baixar o VS Code e comandos do terminal. Veja se está do jeito que você quer!  
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
+```markdown
+## 🔧 Configuração
+<details>
+  <summary>Mostrar configuração ▼</summary>
+
+  ### 🖥️ Ferramentas necessárias
+  Antes de começar, instale as seguintes ferramentas:
+  - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+  - [Node.js](https://nodejs.org/) (inclui o gerenciador de pacotes NPM)
+  - [Git](https://git-scm.com/) (para clonar o repositório)
+
+  ### 📥 Clonando o repositório
+  No terminal, execute os seguintes comandos:
+  ```bash
+  git clone https://github.com/seu-usuario/seu-repositorio.git
+  cd seu-repositorio
+  ```
+
+  ### 📦 Instalando dependências
+  No terminal, dentro da pasta do projeto, execute:
+  ```bash
+  npm install
+  ```
+  Dependências utilizadas:
+  - `discord.js`
+  - `axios`
+  - `express`
+
+  ### ⚙️ Configurando credenciais
+  Crie um arquivo `.env` na raiz do projeto e adicione suas credenciais do Discord:
+  ```ini
+  CLIENT_ID=SEU_CLIENT_ID
+  CLIENT_SECRET=SEU_CLIENT_SECRET
+  BOT_TOKEN=SEU_BOT_TOKEN
+  GUILD_ID=SEU_GUILD_ID
+  REDIRECT_URI=http://localhost:3001/callback
+  ```
+
+  ### ▶️ Iniciando o servidor
+  Para rodar o bot, execute:
+  ```bash
+  node index.js
+  ```
+
+  ### 🌐 Acessando a verificação
+  - Abra o navegador e vá até `http://localhost:3001`
+  - Clique no botão "Verificar"
+  - Após se autenticar no Discord, você será automaticamente adicionado ao servidor 🎉
+
+</details>
+```
+
+Caso precise de mais ajustes, me avise! 🚀
+
 
 2. <details>
    <summary>Instale as dependências ▼</summary>
