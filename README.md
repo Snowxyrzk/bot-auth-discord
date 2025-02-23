@@ -24,7 +24,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 ## 🔧 Configuração
 <details>
-  <summary>Mostrar configuração ▼</summary>
+  <summary>Mostrar configuração </summary>
 
   ### 🖥️ Ferramentas necessárias
   Antes de começar, instale as seguintes ferramentas:
