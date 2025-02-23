@@ -2,6 +2,7 @@
 
 
 # Discord OAuth2 Verification Bot
+-# desenvolvido por:  _[!im Snow?](https://guns.lol/imsnow)_
 
 # NOSSO DISCORD!
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamesdest)
