@@ -19,10 +19,9 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
   - Autentificação para bots e sites
 
 </details>
-
+## 🛠️ Pré-requisitos
+  <summary>ver requisitos</summary>
 <details>
-  <summary>🛠️ Pré-requisitos</summary>
-
   Antes de começar, você precisará ter instalado em sua máquina:
 
   1. **[Node.js](https://nodejs.org/)**  
