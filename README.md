@@ -5,7 +5,7 @@
 
 Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários e adicioná-los automaticamente ao servidor.
 
-## 🏂Funcionalidades>
+## 🏂Funcionalidades
 <details>
   <summary>Mostrar funcionalidades </summary>
   
@@ -72,3 +72,17 @@ Antes de começar, você precisará ter instalado em sua máquina:
   - Após se autenticar no Discord, você será automaticamente adicionado ao servidor 🎉
 
 </details>
+
+## 📝 Como funciona
+
+1. O usuário acessa `http://localhost:3001` e clica no botão "Verificar".
+2. O usuário é redirecionado para o Discord para conceder permissões ao bot.
+3. Após autorizar, o usuário retorna ao site e é automaticamente adicionado ao servidor.
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+![Desenvolvido por: !im Snow?](https://i.pinimg.com/736x/e9/c0/77/e9c0776e9887a57f0851c34316112e03.jpg)
+
+
