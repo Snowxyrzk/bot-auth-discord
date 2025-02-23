@@ -31,7 +31,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
   2. **[NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)**  
      O NPM (Node Package Manager) vem junto com o Node.js. Se preferir, você pode usar o Yarn como alternativa para gerenciar pacotes.
 
-  3. **Conta de Desenvolvedor no [Discord Developer Portal](https://discord.com/developers/applications)**  
+  3. **Criar uma aplicação no [Discord Developer Portal](https://discord.com/developers/applications)**  
      Você precisará criar uma aplicação no Discord Developer Portal para obter o **Client ID**, **Client Secret** e **Bot Token**. Isso é necessário para autenticar usuários e adicionar o bot ao servidor.
 
   4. **Servidor no Discord**  
