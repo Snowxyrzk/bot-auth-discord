@@ -97,6 +97,6 @@ Antes de começar, você precisará ter instalado em sua máquina:
 **SE FOR USAR DÊ OS CREDITOS POR FAVOR.**
 
 ![Desenvolvido por: !im Snow?](https://i.pinimg.com/736x/e9/c0/77/e9c0776e9887a57f0851c34316112e03.jpg)
-# *By:* _" !im Snow?_
+# *By:* _[!im Snow?](https://guns.lol/imsnow)_
 
 
