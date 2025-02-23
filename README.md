@@ -20,11 +20,36 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
 
 </details>
 
+<details>
+  <summary>🛠️ Pré-requisitos</summary>
 
-## 🛠️ Pré-requisitos
-Antes de começar, você precisará ter instalado em sua máquina:
-- [Node.js](https://nodejs.org/)
-- [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+  Antes de começar, você precisará ter instalado em sua máquina:
+
+  1. **[Node.js](https://nodejs.org/)**  
+     Certifique-se de ter o Node.js instalado, pois ele é necessário para rodar o código. Se você não tiver, baixe e instale a versão mais recente estável.
+
+  2. **[NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)**  
+     O NPM (Node Package Manager) vem junto com o Node.js. Se preferir, você pode usar o Yarn como alternativa para gerenciar pacotes.
+
+  3. **Conta de Desenvolvedor no [Discord Developer Portal](https://discord.com/developers/applications)**  
+     Você precisará criar uma aplicação no Discord Developer Portal para obter o **Client ID**, **Client Secret** e **Bot Token**. Isso é necessário para autenticar usuários e adicionar o bot ao servidor.
+
+  4. **Servidor no Discord**  
+     Você precisa de um servidor no Discord onde o bot será adicionado automaticamente após o processo de autenticação. Certifique-se de ter o **Guild ID** do servidor.
+
+  5. **[Visual Studio Code](https://code.visualstudio.com/)** (opcional, mas recomendado)  
+     O VS Code é um editor de código altamente recomendado para trabalhar com Node.js, pois oferece recursos como depuração, auto-completar e controle de versão integrado. Baixe e instale o Visual Studio Code para facilitar o desenvolvimento.
+
+  6. **Plataformas de Hospedagem**  
+     Para rodar a aplicação em produção, você precisará de um serviço de hospedagem. Algumas opções incluem:
+     - **[Vercel](https://vercel.com/)**  
+     - **[Railway](https://railway.app/)**  
+     - **[Glitch](https://glitch.com/)**  
+     - **[DigitalOcean](https://www.digitalocean.com/)**  
+     - **[Square](https://developer.squareup.com/)** (se você precisar integrar com pagamento ou outras funcionalidades da Square)
+
+</details>
+
 
 
 ## 🔧 Configuração
