@@ -1,6 +1,3 @@
-Aqui está a versão corrigida do seu README, com a formatação adequada e alguns ajustes para melhorar a estrutura e o fluxo:
-
-```markdown
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2ad3ff&text=AUTORIZER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
 # Discord OAuth2 Verification Bot
