@@ -18,7 +18,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
   - Servidor Express para gerenciar o fluxo de autenticação
   - Autentificação para bots e sites
 
-</details>
+
 ## 🛠️ Pré-requisitos
   <summary>ver requisitos</summary>
 <details>
