@@ -17,7 +17,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
   - Adição automática de usuários ao servidor após a autenticação
   - Servidor Express para gerenciar o fluxo de autenticação
   - Autentificação para bots e sites
-
+<details>
 
 ## 🛠️ Pré-requisitos
   <summary>ver requisitos</summary>
@@ -46,7 +46,6 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
      - **[Glitch](https://glitch.com/)**  
      - **[DigitalOcean](https://www.digitalocean.com/)**  
      - **[Square](https://developer.squareup.com/)** (se você precisar integrar com pagamento ou outras funcionalidades da Square)
-
 </details>
 
 
