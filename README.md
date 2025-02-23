@@ -74,10 +74,15 @@ Antes de começar, você precisará ter instalado em sua máquina:
   - Clique no botão "Verificar"
   - Após se autenticar no Discord, você será automaticamente adicionado ao servidor 🎉
 
+</details>
+
+## 📁Baixar
+<details>
+
 # Baixar/zip
 **[Clique aqui para baixar](https://cdn.discordapp.com/attachments/1326756804889280553/1343342038828974110/bot_auth.zip?ex=67bcec44&is=67bb9ac4&hm=c321c7af3fa5b7516ddfb95b740ec12d77f4ed9c7f472fc94f9aca0ef77a031d&)**
 
-</details>
+<details>
 
 ## 📝 Como funciona
 
