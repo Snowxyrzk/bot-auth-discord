@@ -25,7 +25,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 ## 🔧 Configuração
 <details>
-  <summary>Mostrar configuração ▼</summary>
+  <summary>Mostrar configuração </summary>
 
   ### 🖥️ Ferramentas necessárias
   Antes de começar, instale as seguintes ferramentas:
@@ -72,4 +72,3 @@ Antes de começar, você precisará ter instalado em sua máquina:
   - Após se autenticar no Discord, você será automaticamente adicionado ao servidor 🎉
 
 </details>
-```
