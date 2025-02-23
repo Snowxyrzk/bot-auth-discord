@@ -22,7 +22,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 - [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
-```markdown
+
 ## 🔧 Configuração
 <details>
   <summary>Mostrar configuração ▼</summary>
