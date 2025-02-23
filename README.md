@@ -34,14 +34,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
   Antes de começar, instale as seguintes ferramentas:
   - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
   - [Node.js](https://nodejs.org/) (inclui o gerenciador de pacotes NPM)
-  - [Git](https://git-scm.com/) (para clonar o repositório)
-
-  ### 📥 Clonando o repositório
-  No terminal, execute os seguintes comandos:
-  ```bash
-  git clone https://github.com/seu-usuario/seu-repositorio.git
-  cd seu-repositorio
-  ```
+  - [Git](https://git-scm.com/) (para clonar o repositório
 
   ### 📦 Instalando dependências
   No terminal, dentro da pasta do projeto, execute:
