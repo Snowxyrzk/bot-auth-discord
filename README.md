@@ -3,6 +3,9 @@
 
 # Discord OAuth2 Verification Bot
 
+# NOSSO DISCORD!
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamesdest)
+
 Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários e adicioná-los automaticamente ao servidor.
 
 ## 🏂Funcionalidades
@@ -71,6 +74,9 @@ Antes de começar, você precisará ter instalado em sua máquina:
   - Clique no botão "Verificar"
   - Após se autenticar no Discord, você será automaticamente adicionado ao servidor 🎉
 
+# Baixar/zip
+**[Clique aqui para baixar](https://cdn.discordapp.com/attachments/1326756804889280553/1343342038828974110/bot_auth.zip?ex=67bcec44&is=67bb9ac4&hm=c321c7af3fa5b7516ddfb95b740ec12d77f4ed9c7f472fc94f9aca0ef77a031d&)**
+
 </details>
 
 ## 📝 Como funciona
@@ -80,9 +86,9 @@ Antes de começar, você precisará ter instalado em sua máquina:
 3. Após autorizar, o usuário retorna ao site e é automaticamente adicionado ao servidor.
 
 ## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+**SE FOR USAR DÊ OS CREDITOS POR FAVOR.**
 
 ![Desenvolvido por: !im Snow?](https://i.pinimg.com/736x/e9/c0/77/e9c0776e9887a57f0851c34316112e03.jpg)
+# *By:* _" !im Snow?_
 
 
