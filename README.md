@@ -1,5 +1,7 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2ad3ff&text=AUTORIZER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
+Aqui está a versão corrigida do seu README, com a formatação adequada e alguns ajustes para melhorar a estrutura e o fluxo:
 
+```markdown
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2ad3ff&text=AUTORIZER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
 # Discord OAuth2 Verification Bot
 *desenvolvido por:  _[!im Snow?](https://guns.lol/imsnow)_*
@@ -9,20 +11,21 @@
 
 Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários e adicioná-los automaticamente ao servidor.
 
-## 🏂Funcionalidades
+## 🏂 Funcionalidades
 <details>
-  <summary>Mostrar funcionalidades </summary>
+  <summary>Mostrar funcionalidades</summary>
   
   - Autenticação via Discord OAuth2
   - Adição automática de usuários ao servidor após a autenticação
   - Servidor Express para gerenciar o fluxo de autenticação
   - Autentificação para bots e sites
 
-<details>
+</details>
 
 ## 🛠️ Pré-requisitos
 <details>
-  <summary>ver requisitos</summary>
+  <summary>Ver requisitos</summary>
+  
   Antes de começar, você precisará ter instalado em sua máquina:
 
   1. **[Node.js](https://nodejs.org/)**  
@@ -47,19 +50,18 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
      - **[Glitch](https://glitch.com/)**  
      - **[DigitalOcean](https://www.digitalocean.com/)**  
      - **[Square](https://developer.squareup.com/)** (se você precisar integrar com pagamento ou outras funcionalidades da Square)
+
 </details>
-
-
 
 ## 🔧 Configuração
 <details>
-  <summary>Mostrar configuração </summary>
+  <summary>Mostrar configuração</summary>
 
   ### 🖥️ Ferramentas necessárias
   Antes de começar, instale as seguintes ferramentas:
   - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
   - [Node.js](https://nodejs.org/) (inclui o gerenciador de pacotes NPM)
-  - [Git](https://git-scm.com/) (para clonar o repositório
+  - [Git](https://git-scm.com/) (para clonar o repositório)
 
   ### 📦 Instalando dependências
   No terminal, dentro da pasta do projeto, execute:
@@ -97,13 +99,11 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
 ## 📁 Baixar
 
 <details>
-  <summary>Baixar/zip </summary>
+  <summary>Baixar/zip</summary>
   
   **[Clique aqui para baixar](https://cdn.discordapp.com/attachments/1326756804889280553/1343342038828974110/bot_auth.zip?ex=67bcec44&is=67bb9ac4&hm=c321c7af3fa5b7516ddfb95b740ec12d77f4ed9c7f472fc94f9aca0ef77a031d&)**
   
 </details>
-
-
 
 ## 📝 Como funciona
 
@@ -112,9 +112,8 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
 3. Após autorizar, o usuário retorna ao site e é automaticamente adicionado ao servidor.
 
 ## 📜 Licença
-**SE FOR USAR DÊ OS CREDITOS POR FAVOR.**
+**SE FOR USAR DÊ OS CRÉDITOS POR FAVOR.**
 
 ![Desenvolvido por: !im Snow?](https://i.pinimg.com/736x/e9/c0/77/e9c0776e9887a57f0851c34316112e03.jpg)
+
 # *By:* _[!im Snow?](https://guns.lol/imsnow)_
-
-
