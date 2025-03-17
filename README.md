@@ -70,7 +70,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
   - `express`
 
   ### ⚙️ Configurando credenciais
-  Crie um arquivo `.env` na raiz do projeto e adicione suas credenciais do Discord:
+  adicione suas credenciais do Discord:
   ```ini
   CLIENT_ID=SEU_CLIENT_ID
   CLIENT_SECRET=SEU_CLIENT_SECRET
