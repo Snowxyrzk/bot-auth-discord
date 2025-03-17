@@ -46,8 +46,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
      - **[Railway](https://railway.app/)**  
      - **[Glitch](https://glitch.com/)**  
      - **[DigitalOcean](https://www.digitalocean.com/)**  
-     - **[Square cloud](https://squarecloud.app/)** (se você precisar integrar com pagamento ou outras funcionalidades da Square)
-
+     - **[Square cloud](https://squarecloud.app/)**
 </details>
 
 ## 🔧 Configuração
