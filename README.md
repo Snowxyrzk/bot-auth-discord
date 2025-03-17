@@ -57,7 +57,7 @@ Este projeto é um bot para Discord que utiliza OAuth2 para autenticar usuários
   Antes de começar, instale as seguintes ferramentas:
   - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
   - [Node.js](https://nodejs.org/) (inclui o gerenciador de pacotes NPM)
-  - [Git](https://git-scm.com/) (para clonar o repositório)
+  - [Git](https://git-scm.com/) (para clonar o repositório) (**É OPCINAL SE QUISER)
 
   ### 📦 Instalando dependências
   No terminal, dentro da pasta do projeto, execute:
