@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2ad3ff&text=AUTORIZER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
 # Discord OAuth2 Verification Bot
-*desenvolvido por:  _[!im Snow?](https://guns.lol/imsnow)_ & _[deep seek](https://www.deepseek.com/)_
+*desenvolvido por:  _[!im Snow?](https://guns.lol/imsnow)_ & _[deep seek](https://www.deepseek.com/)_ _[claude](https://claude.ai)_
 
 # NOSSO DISCORD!
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamesdest)
